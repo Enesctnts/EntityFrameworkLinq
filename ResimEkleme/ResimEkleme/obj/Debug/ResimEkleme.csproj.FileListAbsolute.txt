@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\bin\Debug\ResimEkleme.exe.config
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\bin\Debug\ResimEkleme.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\bin\Debug\ResimEkleme.pdb
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.Form1.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\ResimEkleme\ResimEkleme\obj\Debug\ResimEkleme.pdb

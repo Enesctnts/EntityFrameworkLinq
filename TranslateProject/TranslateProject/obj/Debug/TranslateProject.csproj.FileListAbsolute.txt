@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\bin\Debug\TranslateProject.exe.config
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\bin\Debug\TranslateProject.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\bin\Debug\TranslateProject.pdb
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.Form1.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\TranslateProject\TranslateProject\obj\Debug\TranslateProject.pdb

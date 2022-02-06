@@ -1,0 +1,12 @@
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\bin\Debug\QRCodeOlusturma.exe.config
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\bin\Debug\QRCodeOlusturma.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\bin\Debug\QRCodeOlusturma.pdb
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.Form1.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.Properties.Resources.resources
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.csproj.GenerateResource.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.csproj.CopyComplete
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.exe
+C:\Users\hp\Documents\GitHub\EntityFrameworkLinq\QRCodeOlusturma\QRCodeOlusturma\obj\Debug\QRCodeOlusturma.pdb
